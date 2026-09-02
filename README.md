@@ -6,7 +6,7 @@ Suivi quotidien des repas et des selles (échelle de Bristol), avec aperçu visu
 
 ```
 obsidian/
-├── README - Installation.md        ← ce document
+├── README.md        ← ce document
 ├── Templates/
 │   └── Santé quotidienne.md        ← template de la note journalière
 ├── Vues/
