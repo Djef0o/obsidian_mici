@@ -16,6 +16,9 @@ selles:
     sang: 0
     glaires: 0
     notes: ""
+bristol: 0
+sang: 0
+glaires: 0
 douleur: 0
 fatigue: 0
 notes: ""
@@ -44,6 +47,10 @@ notes: ""
 - **Glaires** : 0 = aucune · 5 = abondantes
 - **Douleur** : 0 = aucune · 5 = insupportable
 - **Fatigue** : 0 = aucune · 5 = épuisement total
+
+### Règle importante
+
+Les champs **`bristol`**, **`sang`** et **`glaires`** en propriétés doivent contenir la **pire valeur du jour** parmi toutes les selles. Si aucune selle dans la journée : laisser 0. C'est ce que lisent les vues mensuelles.
 
 ## Notes libres
 

@@ -33,8 +33,8 @@ month:
     dataset: 0, 1, 2, 3
     startWeekOn: 'Mon'
     circleColorByValue: true
-    yMin: 0
-    yMax: 5
+    yMin: 0, 0, 0, 0
+    yMax: 5, 5, 5, 5
     color: crimson
     showSelectedValue: true
     todayRingColor: orange
